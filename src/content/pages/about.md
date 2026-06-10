@@ -1,37 +1,29 @@
 ---
-title: "About"
-description: "A bit about me and this blog."
+title: "Sobre Plata Clara"
+description: "Blog de finanzas personales y temas tributarios para peruanos. Guías claras, sin jerga de contador."
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+**Plata Clara** es un blog de finanzas personales y temas tributarios pensado para peruanos que quieren entender cómo funciona su dinero — sin necesitar un contador al lado.
 
-![Astro Paper](@/assets/images/astropaper-og.jpg)
+## ¿De qué trata este blog?
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+Acá vas a encontrar guías prácticas y paso a paso sobre temas como:
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+- **SUNAT y obligaciones tributarias**: qué es el RUC, cómo activarlo, cuándo y cómo declarar.
+- **Facturación electrónica**: cómo emitir facturas y boletas desde el portal de SUNAT o con un proveedor homologado.
+- **Recibos por honorarios**: todo lo que necesitás saber si trabajás de forma independiente — electrónicos, retenciones, cuándo y cómo emitirlos.
+- **Regímenes tributarios**: diferencias entre el Nuevo RUS, el Régimen Especial, el MYPE Tributario y el Régimen General — para que elijas el que te conviene.
+- **Formalización de negocios**: cómo crear una empresa, qué tipo societario elegir, y cuáles son los primeros pasos.
+- **Ahorro y finanzas personales**: cómo organizarte, reducir gastos, y empezar a construir un colchón financiero desde cero.
 
-## Features
+## El enfoque
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+Nada de jerga. Nada de "según el artículo 85 del TUO de la Ley del Impuesto a la Renta...". Acá se explica todo como debe ser: claro, directo, con ejemplos reales.
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+Cada artículo está pensado para que lo leas, entiendas, y puedas hacer algo concreto con esa información.
 
-and so much more.
+## Descargo de responsabilidad
 
-## Show your support
+El contenido de Plata Clara es **informativo y educativo**. No constituye asesoría tributaria, contable ni financiera profesional, y no reemplaza la consulta con un especialista certificado.
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
-
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+Para decisiones importantes — apertura de empresa, elección de régimen tributario, situaciones fiscales específicas — **consultá siempre a un contador público colegiado o a un asesor financiero certificado**. Las normas tributarias en Perú cambian con frecuencia; verificá siempre la información con fuentes oficiales (SUNAT, MEF, El Peruano).
