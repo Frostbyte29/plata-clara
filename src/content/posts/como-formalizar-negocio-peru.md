@@ -34,6 +34,10 @@ El problema es que nadie te dice bien cuánto cuesta ni por dónde empezar. Esta
 
 ---
 
+> 📅 **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
+
+## Tabla de contenidos
+
 ## ¿Por qué formalizar? Los beneficios concretos
 
 Operar sin RUC puede parecer más simple, pero te cierra varias puertas:
@@ -61,6 +65,8 @@ Vos y tu negocio son lo mismo ante la ley. Si el negocio tiene deudas, tus biene
 - Querés empezar sin gastar nada en constitución.
 
 **Trámite:** solo el RUC en SUNAT. Gratuito. Listo en 1 día desde el portal virtual.
+
+> Si prestás servicios profesionales por tu cuenta (consultoría, diseño, asesoría), como persona natural tus ingresos son [renta de cuarta categoría](/posts/como-declarar-impuestos-trabajador-independiente-honorarios/): revisá qué retenciones te aplican y cuándo podés pedir la suspensión.
 
 ---
 

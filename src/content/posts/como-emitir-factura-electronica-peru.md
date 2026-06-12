@@ -25,6 +25,10 @@ En esta guía verás, paso a paso, cómo emitir tu factura desde el sistema **gr
 > - El sistema está disponible **de inmediato**; no hay un trámite previo especial.
 > - Al emitir recibes la **CDR** (constancia de recepción) y entregas el PDF con **código QR**.
 
+> 📅 **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
+
+## Tabla de contenidos
+
 ## ¿Qué es una factura electrónica y cuándo debes emitirla?
 
 Una factura electrónica es un **comprobante de pago digital (CPE)** con la misma validez legal que una factura de papel. Su función es sustentar **costo, gasto y crédito fiscal del IGV (18%)** en las declaraciones. Se emite **a favor de un cliente con RUC** (salvo exportaciones).
@@ -33,9 +37,9 @@ Es solo uno de los comprobantes del sistema de SUNAT. A grandes rasgos:
 
 - **Factura** → cuando tu cliente tiene **RUC** y necesita sustentar gasto (empresas).
 - **Boleta de venta** → cuando le vendes a un **consumidor final** (sin RUC).
-- **Recibo por honorarios** → si prestas servicios como **independiente** (4ta categoría). *(Eso lo vemos a fondo en otra guía.)*
+- **Recibo por honorarios** → si prestas servicios como **independiente** (4ta categoría). *(Más detalle en [cómo declarar impuestos como trabajador independiente](/posts/como-declarar-impuestos-trabajador-independiente-honorarios/).)*
 
-**¿Estás obligado a emitir electrónicamente en 2026?** En la práctica, **sí**: casi todos los contribuyentes del **Régimen General, MYPE Tributario (RMT) y Régimen Especial (RER)** son emisores electrónicos. La **única excepción** es el **Nuevo RUS**. Y desde **2026**, toda empresa nueva que se inscriba en RG, RMT o RER queda como **emisor electrónico de forma automática** desde el primer día.
+**¿Estás obligado a emitir electrónicamente en 2026?** En la práctica, **sí**: casi todos los contribuyentes del **[Régimen General, MYPE Tributario (RMT) y Régimen Especial (RER)](/posts/regimen-tributario-emprendedores-peru-2026/)** son emisores electrónicos. La **única excepción** es el **Nuevo RUS**. Y desde **2026**, toda empresa nueva que se inscriba en RG, RMT o RER queda como **emisor electrónico de forma automática** desde el primer día.
 
 ## Requisitos antes de emitir (checklist rápido)
 

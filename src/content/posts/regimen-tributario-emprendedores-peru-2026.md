@@ -32,6 +32,10 @@ Elegir mal puede costarte más dinero del necesario o dejarte fuera de clientes 
 
 ---
 
+> 📅 **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
+
+## Tabla de contenidos
+
 ## ¿Por qué importa tanto el régimen que elegís?
 
 El régimen define tres cosas al mismo tiempo: **cuánto pagás**, **qué comprobantes emitís** y **qué registros contables llevás**. Si te metés al régimen incorrecto, SUNAT puede multarte hasta el 50 % de 1 UIT (S/ 2 750 en 2026) y obligarte a cambiar de régimen con retroactividad.
@@ -85,7 +89,7 @@ No presentás declaración jurada anual de renta, lo que simplifica el cierre de
 
 ### ¿Qué comprobantes emitís?
 
-Boletas y **facturas electrónicas**. Esto es clave: podés trabajar con empresas que necesitan sustentar gastos.
+Boletas y **facturas electrónicas**. Esto es clave: podés trabajar con empresas que necesitan sustentar gastos. Si nunca emitiste una, revisá el proceso completo en [cómo emitir tu primera factura electrónica en Perú](/posts/como-emitir-factura-electronica-peru/).
 
 ### ¿Qué libros llevás?
 
@@ -157,7 +161,7 @@ Sin límite de ingresos. Paga IGV (18 %) y un pago a cuenta mensual del 1,5 % o 
 **Paso 2.** ¿Necesitás emitir facturas a empresas, pero sos comerciante o prestás servicios no profesionales y no superarás S/ 525 000 al año?
 → **RER.** Sencillo, sin declaración anual.
 
-**Paso 3.** ¿Sos profesional independiente (honorarios), tenés una empresa en crecimiento o querés deducir gastos reales para pagar menos?
+**Paso 3.** ¿Sos [profesional independiente que emite honorarios](/posts/como-declarar-impuestos-trabajador-independiente-honorarios/), tenés una empresa en crecimiento o querés deducir gastos reales para pagar menos?
 → **RMT.** Es el régimen más recomendado para la mayoría de emprendedores peruanos.
 
 **Paso 4.** ¿Ya facturás más de S/ 9 millones al año o necesitás estructuras societarias complejas?

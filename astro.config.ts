@@ -38,8 +38,8 @@ export default defineConfig({
   markdown: {
     processor: unified({
       remarkPlugins: [
-        remarkToc,
-        [remarkCollapse, { test: "Table of contents" }],
+        [remarkToc, { heading: "tabla de contenidos" }],
+        [remarkCollapse, { test: "Tabla de contenidos" }],
       ],
       rehypePlugins: [rehypeCallouts],
     }),

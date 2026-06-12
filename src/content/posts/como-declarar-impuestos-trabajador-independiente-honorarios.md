@@ -30,6 +30,10 @@ Esta guía te explica exactamente cómo funciona el impuesto de cuarta categorí
 
 ---
 
+> 📅 **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
+
+## Tabla de contenidos
+
 ## ¿Qué es la renta de cuarta categoría?
 
 Es el impuesto que grava los ingresos de personas que trabajan de forma **independiente**: sin contrato laboral, sin vínculo de dependencia y sin estar bajo las órdenes de un empleador. Incluye profesionales, técnicos, artistas, docentes independientes y cualquier persona que preste servicios por su cuenta y emita recibos por honorarios.
@@ -168,7 +172,7 @@ Si sos, por ejemplo, empleado de una empresa (quinta categoría) y además hacé
 No. El recibo por honorarios es el comprobante específico de renta de cuarta categoría. Lo emitís a través del portal SOL de SUNAT de forma electrónica. Una factura, en cambio, corresponde a renta de tercera categoría (negocio). Para más detalle, revisá nuestra guía sobre **[cómo emitir tu primera factura electrónica](/posts/como-emitir-factura-electronica-peru/)**.
 
 **¿Puedo ser cuarta y tercera categoría al mismo tiempo?**
-Sí. Si además tenés un negocio con RUC (RER o RMT), tus ingresos de honorarios siguen siendo cuarta categoría y los del negocio son tercera. Los dos mundos son independientes en el pago mensual pero se combinan en la declaración anual de personas naturales.
+Sí. Si además tenés un negocio con RUC (RER o RMT) —si todavía no formalizaste, mirá [cómo obtener el RUC y elegir figura legal](/posts/como-formalizar-negocio-peru/)—, tus ingresos de honorarios siguen siendo cuarta categoría y los del negocio son tercera. Los dos mundos son independientes en el pago mensual pero se combinan en la declaración anual de personas naturales.
 
 **¿Tengo que llevar algún libro contable en cuarta categoría?**
 No. Los trabajadores independientes de cuarta categoría no están obligados a llevar libros contables. Solo debés conservar tus recibos electrónicos emitidos en el portal de SUNAT.
