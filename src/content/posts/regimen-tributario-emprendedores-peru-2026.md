@@ -22,7 +22,7 @@ Elegir mal puede costarte más dinero del necesario o dejarte fuera de clientes 
 
 ---
 
-> ## 🟡 Lo esencial en 30 segundos
+> ## Lo esencial en 30 segundos
 > - Perú tiene **4 regímenes**: Nuevo RUS, RER, RMT (MYPE Tributario) y Régimen General.
 > - **Nuevo RUS**: cuota fija de S/ 20 o S/ 50 al mes. Ideal para bodegas y puestos de mercado. Solo emitís boletas.
 > - **RER**: pagás 1,5 % de tus ingresos + IGV. Podés emitir facturas.
@@ -32,7 +32,7 @@ Elegir mal puede costarte más dinero del necesario o dejarte fuera de clientes 
 
 ---
 
-> 📅 **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
+> **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
 
 ## Tabla de contenidos
 
@@ -146,8 +146,8 @@ Sin límite de ingresos. Paga IGV (18 %) y un pago a cuenta mensual del 1,5 % o 
 | **Límite de ingresos** | S/ 96 000/año | ~S/ 525 000/año | S/ 9 350 000/año | Sin límite |
 | **Pago mensual** | S/ 20 o S/ 50 (fijo) | 1,5 % renta + IGV | 1 % renta + IGV | 1,5 % o coeficiente + IGV |
 | **IR anual** | No | No | 10 % / 29,5 % | 29,5 % |
-| **Emite facturas** | ❌ | ✅ | ✅ | ✅ |
-| **Deduce gastos** | ❌ | Parcial | ✅ | ✅ |
+| **Emite facturas** | No | Sí | Sí | Sí |
+| **Deduce gastos** | No | Parcial | Sí | Sí |
 | **Declaración anual** | No | No | Sí | Sí |
 | **Complejidad** | Mínima | Baja | Media | Alta |
 
@@ -169,7 +169,7 @@ Sin límite de ingresos. Paga IGV (18 %) y un pago a cuenta mensual del 1,5 % o 
 
 ---
 
-## ❌ Errores comunes al elegir régimen
+## Errores comunes al elegir régimen
 
 - **Inscribirse en RMT cuando calificabas para el Nuevo RUS.** Resultado: pagás IGV y llevás libros innecesariamente.
 - **Quedarse en el Nuevo RUS cuando ya emitís más de S/ 8 000 al mes.** Resultado: infracción y multa.
@@ -217,7 +217,7 @@ El **Nuevo RUS** es perfecto si tenés un negocio pequeño, vendés al público 
 
 Lo importante es que elijas bien desde el inicio y actualices tu régimen cuando tus ingresos cambien. Si tenés dudas sobre tu caso específico, consultá con un contador antes de inscribirte: el costo de una buena asesoría es mucho menor que el de una multa.
 
-👉 ¿Listo para el siguiente paso? Lee nuestra guía sobre **[cómo formalizar tu negocio en Perú paso a paso](/posts/como-formalizar-negocio-peru/)** y nuestra guía sobre **[cómo emitir tu primera factura electrónica](/posts/como-emitir-factura-electronica-peru/)**.
+¿Listo para el siguiente paso? Lee nuestra guía sobre **[cómo formalizar tu negocio en Perú paso a paso](/posts/como-formalizar-negocio-peru/)** y nuestra guía sobre **[cómo emitir tu primera factura electrónica](/posts/como-emitir-factura-electronica-peru/)**.
 
 ---
 

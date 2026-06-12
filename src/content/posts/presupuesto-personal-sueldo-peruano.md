@@ -20,16 +20,16 @@ No es que te falte dinero. Es que nadie te enseñó a distribuirlo. Esta guía t
 
 ---
 
-> ## 🟡 Lo esencial en 30 segundos
+> ## Lo esencial en 30 segundos
 > - El método **50/30/20** divide tu sueldo en: **50% necesidades, 30% gustos, 20% ahorro o deuda**.
 > - Adaptado a Lima, el 50% cubre alquiler, transporte y comida. Con S/ 2,000 de sueldo, son S/ 1,000 para lo básico.
-> - **No tienes que ser perfecto.** Empezar con un 10% de ahorro es mejor que no empezar.
+> - No tienes que ser perfecto. Empezar con un 10% de ahorro es mejor que no empezar.
 > - Yape y Plin muestran tu historial de movimientos: úsalos como registro automático de gastos.
 > - El primer paso no es recortar gastos: es **saber en qué estás gastando**.
 
 ---
 
-> 📅 **Actualizado: junio 2026** · Fuentes: INEI y estimaciones de mercado Lima 2026.
+> **Actualizado: junio 2026** · Fuentes: INEI y estimaciones de mercado Lima 2026.
 
 ## Tabla de contenidos
 
@@ -159,7 +159,7 @@ Hay categorías que casi nadie incluye en su presupuesto hasta que es tarde:
 
 ---
 
-## ❌ Errores comunes al hacer un presupuesto
+## Errores comunes al hacer un presupuesto
 
 - **Presupuestar lo que quisieras gastar, no lo que realmente gastas.** Primero registra un mes sin cambiar nada. Eso te da la línea base real.
 - **No incluir gastos anuales.** El SOAT, la renovación de contrato, la matrícula del gimnasio. Divide entre 12 y agrégalos al presupuesto mensual.
@@ -194,7 +194,7 @@ El presupuesto no es para restringirte. Es para darte claridad: saber que puedes
 
 La fórmula es simple: **separa el ahorro primero, cubre las necesidades, gasta el resto en lo que quieras**. Empieza con números reales — no con lo que crees que gastas — y ajusta con lo que descubres en el primer mes de registro.
 
-👉 ¿Quieres mejorar la gestión de tus pagos digitales? Mira nuestra comparativa de **[Yape vs Plin: cuál conviene para tu negocio y tus finanzas personales](/posts/yape-vs-plin-cual-conviene-negocio-finanzas/)**. Y si eres trabajador independiente con honorarios, la guía de **[cómo declarar tus impuestos de cuarta categoría](/posts/como-declarar-impuestos-trabajador-independiente-honorarios/)** es lectura obligada para organizar lo que realmente te queda después de impuestos.
+¿Quieres mejorar la gestión de tus pagos digitales? Mira nuestra comparativa de **[Yape vs Plin: cuál conviene para tu negocio y tus finanzas personales](/posts/yape-vs-plin-cual-conviene-negocio-finanzas/)**. Y si eres trabajador independiente con honorarios, la guía de **[cómo declarar tus impuestos de cuarta categoría](/posts/como-declarar-impuestos-trabajador-independiente-honorarios/)** es lectura obligada para organizar lo que realmente te queda después de impuestos.
 
 ---
 

@@ -14,7 +14,7 @@ draft: false
 
 # Cómo emitir tu primera factura electrónica en Perú: guía 2026 paso a paso
 
-Emitir tu **primera factura electrónica** puede dar nervios. La plataforma de SUNAT intimida, escuchas historias de multas y nadie te explica de forma simple por dónde empezar. Pero la verdad es sencilla: **si no facturas, no cobras** — y hacerlo bien toma minutos y, en la mayoría de casos, **no cuesta un sol**.
+Emitir tu **primera factura electrónica** puede dar nervios. La plataforma de SUNAT intimida, escuchas historias de multas y nadie te explica de forma simple por dónde empezar. Pero la verdad es sencilla: si no facturas, no cobras — y hacerlo bien toma minutos y, en la mayoría de casos, no cuesta un sol.
 
 En esta guía verás, paso a paso, cómo emitir tu factura desde el sistema **gratuito** de SUNAT (SEE-SOL), qué requisitos necesitas y los errores que suelen costar caro. Sirve igual si eres freelancer con RUC 10 o si abriste una pequeña empresa con RUC 20.
 
@@ -25,7 +25,7 @@ En esta guía verás, paso a paso, cómo emitir tu factura desde el sistema **gr
 > - El sistema está disponible **de inmediato**; no hay un trámite previo especial.
 > - Al emitir recibes la **CDR** (constancia de recepción) y entregas el PDF con **código QR**.
 
-> 📅 **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
+> **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
 
 ## Tabla de contenidos
 
@@ -140,11 +140,11 @@ No se puede "borrar". Debes emitir una **Nota de Crédito** vinculada a esa fact
 **¿Boleta o factura?**
 Si tu cliente tiene **RUC** y necesita sustentar gasto → **factura**. Si es un **consumidor final** → **boleta**.
 
-## En resumen
+## Lo que importa al emitir
 
 Tu primera factura electrónica no tiene por qué ser un dolor de cabeza: entra a **SEE-SOL** con tu Clave SOL, llena los datos del cliente, revisa el preliminar y emite. Gratis, en minutos, y con la misma validez legal que una factura de papel. Lo único que de verdad importa es **hacerlo bien** —cliente correcto, forma de pago correcta, dentro del plazo— para evitar multas y trabas de cobro.
 
-👉 ¿Querés entender el contexto completo? Lee nuestra guía sobre **[regímenes tributarios para emprendedores en Perú](/posts/regimen-tributario-emprendedores-peru-2026/)** y, si todavía no formalizaste tu negocio, arrancá por **[cómo formalizar tu negocio en Perú paso a paso](/posts/como-formalizar-negocio-peru/)**.
+¿Querés entender el contexto completo? Lee nuestra guía sobre **[regímenes tributarios para emprendedores en Perú](/posts/regimen-tributario-emprendedores-peru-2026/)** y, si todavía no formalizaste tu negocio, arrancá por **[cómo formalizar tu negocio en Perú paso a paso](/posts/como-formalizar-negocio-peru/)**.
 
 ---
 
