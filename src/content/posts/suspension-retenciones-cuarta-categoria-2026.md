@@ -21,7 +21,7 @@ Existe un trámite gratuito, en línea y que tarda menos de 10 minutos: la **sus
 
 ---
 
-> ## 🟡 Lo esencial en 30 segundos
+> ## Lo esencial en 30 segundos
 > - Si tus ingresos anuales de cuarta categoría **no superan S/ 48,125**, puedes pedir la suspensión de retenciones.
 > - Si ejerces funciones de **director de empresa, síndico o mandatario**, el límite es **S/ 38,500** anuales.
 > - El trámite es por el **Formulario Virtual N.º 1609** en SUNAT Operaciones en Línea (SOL). Gratis y aprobación automática.
@@ -31,7 +31,7 @@ Existe un trámite gratuito, en línea y que tarda menos de 10 minutos: la **sus
 
 ---
 
-> 📅 **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
+> **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
 
 ## Tabla de contenidos
 
@@ -147,7 +147,7 @@ Lo que sí puede generar observaciones es solicitar la suspensión cuando claram
 
 ---
 
-## ❌ Errores comunes
+## Errores comunes
 
 - **No tramitar la suspensión por no saber que existe.** Es el error más costoso: pierdes el 8% de cada recibo durante todo el año y lo recuperas recién en la declaración.
 - **No entregar la constancia al contratante.** Aunque tengas la aprobación, si no la presentas, la empresa igual está obligada a retenerte. La constancia no se transmite automáticamente al pagador.
@@ -185,7 +185,7 @@ Si eres trabajador independiente y tus ingresos anuales no superan S/ 48,125, la
 
 La clave es actuar cuanto antes: cada mes que pasa sin la suspensión es otro 8% que te descuentan y que podrías haber tenido en tu cuenta desde el primer día.
 
-👉 ¿Quieres entender el panorama completo de tus obligaciones como independiente? Lee nuestra guía de **[cómo declarar impuestos como trabajador independiente en Perú](/posts/como-declarar-impuestos-trabajador-independiente-honorarios/)**. Y si estás evaluando formalizar tu actividad como negocio, revisa qué **[régimen tributario conviene a tu emprendimiento](/posts/regimen-tributario-emprendedores-peru-2026/)**.
+¿Quieres entender el panorama completo de tus obligaciones como independiente? Lee nuestra guía de **[cómo declarar impuestos como trabajador independiente en Perú](/posts/como-declarar-impuestos-trabajador-independiente-honorarios/)**. Y si estás evaluando formalizar tu actividad como negocio, revisa qué **[régimen tributario conviene a tu emprendimiento](/posts/regimen-tributario-emprendedores-peru-2026/)**.
 
 ---
 

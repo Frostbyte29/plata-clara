@@ -20,7 +20,7 @@ Esta guía compara Yape y Plin con datos actualizados a 2026, incluyendo los nue
 
 ---
 
-> ## 🟡 Lo esencial en 30 segundos
+> ## Lo esencial en 30 segundos
 > - **Yape** es del BCP: más de 12 millones de usuarios, límite diario configurable hasta **S/ 2,000**, 100% gratis para uso personal.
 > - **Plin** es la red de BBVA, Interbank, BanBif y Scotiabank: gratis para personas, límites por banco (hasta **S/ 1,500/día** en Interbank).
 > - La **SBS fijó S/ 3,300 por transacción** como tope regulatorio para billeteras de dinero electrónico (Resolución SBS N.º 00704-2026, desde marzo 2026).
@@ -30,7 +30,7 @@ Esta guía compara Yape y Plin con datos actualizados a 2026, incluyendo los nue
 
 ---
 
-> 📅 **Actualizado: junio 2026** · Fuentes: SBS, BCRP, Yape.com.pe, Plin.pe y normativa oficial vigente.
+> **Actualizado: junio 2026** · Fuentes: SBS, BCRP, Yape.com.pe, Plin.pe y normativa oficial vigente.
 
 ## Tabla de contenidos
 
@@ -146,7 +146,7 @@ Para organizar mejor lo que entra y sale de tus billeteras, revisa nuestra guía
 
 ---
 
-## ❌ Errores comunes con billeteras digitales
+## Errores comunes con billeteras digitales
 
 - **Confundir el tope de la SBS con el límite de tu app.** S/ 3,300 es el máximo que la SBS autoriza por transacción, pero Yape y Plin tienen límites operativos propios que pueden ser menores. Revisa tu app.
 - **No activar Plin porque "ya tengo Yape".** Con interoperabilidad, tener las dos no cuesta nada y da más flexibilidad.
@@ -181,7 +181,7 @@ Para **uso personal**, tanto Yape como Plin son gratuitas, seguras e interoperab
 
 Para **negocios**, la diferencia sí importa: Yape Empresa cobra 2.95% pero ofrece reportes y estructura. Plin para negocios es gratuito pero sin herramientas comerciales. Si tienes volumen bajo, Plin (o ambas) funciona bien.
 
-👉 ¿Quieres organizar mejor lo que entra y sale de tus billeteras? Lee nuestra guía de **[presupuesto personal para sueldo peruano](/posts/presupuesto-personal-sueldo-peruano/)**. Y si eres trabajador independiente con honorarios, conoce cómo la **[suspensión de retenciones de cuarta categoría](/posts/suspension-retenciones-cuarta-categoria-2026/)** te permite cobrar el 100% de tus recibos.
+¿Quieres organizar mejor lo que entra y sale de tus billeteras? Lee nuestra guía de **[presupuesto personal para sueldo peruano](/posts/presupuesto-personal-sueldo-peruano/)**. Y si eres trabajador independiente con honorarios, conoce cómo la **[suspensión de retenciones de cuarta categoría](/posts/suspension-retenciones-cuarta-categoria-2026/)** te permite cobrar el 100% de tus recibos.
 
 ---
 

@@ -24,7 +24,7 @@ El problema es que nadie te dice bien cuánto cuesta ni por dónde empezar. Esta
 
 ---
 
-> ## 🟡 Lo esencial en 30 segundos
+> ## Lo esencial en 30 segundos
 > - **Formalizar como persona natural con negocio**: gratis, solo necesitás el RUC. Ideal si emprendés solo y facturás menos de S/ 96 000 al año.
 > - **Constituir una empresa (EIRL, SAC, SRL)**: entre **S/ 500 y S/ 1 800**, dependiendo del tipo, la notaría y la ciudad.
 > - El **RUC** es el primer paso en todos los casos. Es gratis y se hace en SUNAT virtual en 1 día.
@@ -34,7 +34,7 @@ El problema es que nadie te dice bien cuánto cuesta ni por dónde empezar. Esta
 
 ---
 
-> 📅 **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
+> **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
 
 ## Tabla de contenidos
 
@@ -179,7 +179,7 @@ La mayor parte del costo en una empresa jurídica se va en **notaría y municipa
 
 ---
 
-## ❌ Errores comunes al formalizar
+## Errores comunes al formalizar
 
 - **Formalizar antes de tener ingresos reales.** Con el RUC activo, tenés que declarar cada mes aunque sea en cero. Si no lo hacés, SUNAT te multa.
 - **Elegir mal el régimen tributario.** Inscribirse en el RMT cuando podrías estar en el Nuevo RUS (pagando S/ 20 al mes fijo) es un error que cuesta dinero desde el primer día.
@@ -233,7 +233,7 @@ Si tenés socios o necesitás proteger tu patrimonio personal, la **SACS digital
 
 Lo más importante: no lo postergués. Cada mes que operás informal es un mes sin factura, sin acceso a crédito y con el riesgo de una multa de SUNAT.
 
-👉 ¿Ya tenés el RUC? El siguiente paso es elegir bien tu régimen: mirá nuestra guía de **[regímenes tributarios para emprendedores peruanos](/posts/regimen-tributario-emprendedores-peru-2026/)**. ¿Y si ya sos trabajador independiente con recibos por honorarios? Revisá **[cómo declarar tus impuestos de cuarta categoría](/posts/como-declarar-impuestos-trabajador-independiente-honorarios/)**.
+¿Ya tenés el RUC? El siguiente paso es elegir bien tu régimen: mirá nuestra guía de **[regímenes tributarios para emprendedores peruanos](/posts/regimen-tributario-emprendedores-peru-2026/)**. ¿Y si ya sos trabajador independiente con recibos por honorarios? Revisá **[cómo declarar tus impuestos de cuarta categoría](/posts/como-declarar-impuestos-trabajador-independiente-honorarios/)**.
 
 ---
 

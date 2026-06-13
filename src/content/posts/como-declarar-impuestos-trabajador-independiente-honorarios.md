@@ -21,7 +21,7 @@ Esta guía te explica exactamente cómo funciona el impuesto de cuarta categorí
 
 ---
 
-> ## 🟡 Lo esencial en 30 segundos
+> ## Lo esencial en 30 segundos
 > - Si sos trabajador independiente y emitís recibos por honorarios, tus ingresos son **renta de cuarta categoría**.
 > - Si tu recibo supera **S/ 1 500**, la empresa que te paga debe retenerte el **8 %** y entregarlo a SUNAT.
 > - Si estimás que tu ingreso anual no superará **S/ 48 125**, podés tramitar la **suspensión de retenciones** y llevarte el 100 % de tu cobro.
@@ -30,7 +30,7 @@ Esta guía te explica exactamente cómo funciona el impuesto de cuarta categorí
 
 ---
 
-> 📅 **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
+> **Actualizado: junio 2026** · Fuentes: SUNAT y normativa oficial vigente.
 
 ## Tabla de contenidos
 
@@ -150,7 +150,7 @@ Si tus ingresos brutos anuales no superan los S/ 48 125 (equivalente a la suma d
 
 ---
 
-## ❌ Errores comunes en cuarta categoría
+## Errores comunes en cuarta categoría
 
 - **No tramitar la suspensión cuando calificás.** Si ganás menos de S/ 48 125 al año y no tramitás la suspensión, perdés el 8 % de cada recibo mayor a S/ 1 500 hasta que declarés en el año siguiente.
 - **No declarar en la anual porque "ya retuvieron todo".** Si tus ingresos superaron el umbral, estás obligado. No declarar genera una multa del 50 % de 1 UIT (S/ 2 750 en 2026).
@@ -191,7 +191,7 @@ El impuesto de cuarta categoría no tiene que ser un misterio. El resumen es sim
 
 La clave está en **actuar a tiempo**: tramitar la suspensión a inicio de año, llevar un registro básico de tus recibos y cumplir con la declaración anual antes de que venza el plazo.
 
-👉 ¿Ya tenés un negocio formal además de tus honorarios? Leé cómo elegir el régimen correcto en nuestra guía de **[regímenes tributarios para emprendedores en Perú](/posts/regimen-tributario-emprendedores-peru-2026/)**. Y si estás pensando en suspender tus retenciones este año, seguí los pasos del trámite del Formulario Virtual 1609 en el portal de SUNAT Operaciones en Línea.
+¿Ya tenés un negocio formal además de tus honorarios? Leé cómo elegir el régimen correcto en nuestra guía de **[regímenes tributarios para emprendedores en Perú](/posts/regimen-tributario-emprendedores-peru-2026/)**. Y si estás pensando en suspender tus retenciones este año, seguí los pasos del trámite del Formulario Virtual 1609 en el portal de SUNAT Operaciones en Línea.
 
 ---
 
